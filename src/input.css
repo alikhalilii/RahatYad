@@ -1,0 +1,16 @@
+@font-face {
+    font-family: shabnam;
+    src: url('/Font/Shabnam/Shabnam.eot')format(eot);
+    src: url('/Font/Shabnam/Shabnam.ttf')format(ttf);
+    src: url('/Font/Shabnam/Shabnam.woff')format(woff);
+    src: url('/Font/Shabnam/Shabnam.woff2')format(woff2);
+}
+.shabnam{
+    font-family: shabnam
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.color1{
+    background-color: #FBFDF4;
+}
